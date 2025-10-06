@@ -2,7 +2,7 @@ import os
 import requests
 
 github_token = os.getenv('GH_TOKEN')
-repo = 'sounddrill31/blog'  # Change if needed
+repo = 'neotechclub/blog'  # Change if needed
 headers = {'Authorization': f'token {github_token}'}
 
 def fetch_discussions():

@@ -13,13 +13,14 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "⚡"
-subtitle = "<Insert Creative Subtitle>"
+emoji = "🤝"
+subtitle = "Because Truly Open Code is the Best Kind of Code"
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.webp"
+#src = "img/avatar.webp"
+src=""
 
 [article]
 headingAnchor = false
@@ -128,10 +129,10 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = "sounddrill31/blog"
-repoID = "R_kgDOP6ZHIg"
+repo = "neotechclub/blog"
+repoID = "R_kgDOP9MAwQ"
 category = "Announcements"
-categoryID = "DIC_kwDOP6ZHIs4CwLMm"
+categoryID = "DIC_kwDOP9MAwc4CwT2b"
 mapping = "title"
 strict = "0"
 lightTheme = "light"

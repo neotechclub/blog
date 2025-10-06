@@ -8,17 +8,10 @@
 #newtab = true
 [[social]]
 identifier = "Main Page"
-url = "https://sounddrill31.github.io"
+url = "https://neotechclub.qzz.io"
 
 [social.params]
 icon = "home"
-
-[[social]]
-identifier = "lab"
-url = "https://sounddrill31.github.io/tgl"
-
-[social.params]
-icon = "infinity"
 
 [[social]]
 identifier = "blog"
@@ -28,7 +21,7 @@ icon = "archives"
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/sounddrill31"
+url = "https://github.com/neotechclub"
 
 [social.params]
 icon = "brand-github"

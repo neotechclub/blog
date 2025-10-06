@@ -11,7 +11,7 @@ tags:
 #weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to my page, I use hugo with a theme called `Stack`
+Welcome to the club website, it is built with hugo with a theme called `Stack`
 
 For more information about this theme, check the documentation: https://stack.jimmycai.com/
 
