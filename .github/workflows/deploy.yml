@@ -7,12 +7,12 @@ on:
         branches: [master]
     discussion:
         types: [created, edited]
-permissions:
-  contents: read
-  pages: write
-  id-token: write
 jobs:
     build:
+        permissions:
+          contents: read
+          pages: write
+          id-token: write
         runs-on: ubuntu-latest
         if: github.event_name != 'discussion' || github.event.discussion.category.name == 'Announcements'
 
