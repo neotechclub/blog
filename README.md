@@ -91,7 +91,7 @@ This project includes an automated system to fetch GitHub Discussions and conver
 ### Setup Instructions
 
 1. Configure GitHub Pages in your repository settings to use \"GitHub Actions\" as the source.
-2. Ensure Giscus is enabled in `config/_default/params.toml` with `provider = \"giscus\"` and correct repo/category IDs.
+2. Ensure Giscus is enabled in `config/_default/params.toml` with `provider = "giscus"` and correct repo/category IDs.
 3. Only discussions in the \"Announcements\" category will be converted to blog posts.
 4. Each discussion becomes a post at `content/post/[slugified-title]/index.md` during the build.
 5. Giscus automatically links posts to discussions via title matching.
@@ -99,7 +99,7 @@ This project includes an automated system to fetch GitHub Discussions and conver
 
 #### Giscus Compatibility
 
-Giscus uses title-based mapping (`mapping = \"title\"`) to automatically link blog posts to their corresponding GitHub Discussions. When a discussion in the \"Announcements\" category is created, it's converted to a post with the same title, and Giscus handles the linking automatically - no manual IDs needed.
+Giscus uses title-based mapping (`mapping = "title"`) to automatically link blog posts to their corresponding GitHub Discussions. When a discussion in the \"Announcements\" category is created, it's converted to a post with the same title, and Giscus handles the linking automatically - no manual IDs needed.
 
 ---
 
