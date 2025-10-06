@@ -20,7 +20,7 @@ subtitle = "Because Truly Open Code is the Best Kind of Code"
 enabled = true
 local = true
 #src = "img/avatar.webp"
-src=""
+src="img/avatar.png"
 
 [article]
 headingAnchor = false
