@@ -1,5 +1,6 @@
 import os
 import requests
+import yaml
 
 github_token = os.getenv('GH_TOKEN')
 repo = 'neotechclub/blog'  # Change if needed
@@ -14,12 +15,21 @@ def fetch_discussions():
     return [d for d in all_discussions if d.get('category', {}).get('name', '') == 'Announcements']
 
 def convert_to_hugo_md(discussion):
+    import re
+    
     title = discussion['title']
     body_raw = discussion.get('body', '')
     
-    # Remove any existing frontmatter from the body
-    import re
-    body_raw = re.sub(r'^---\s*\n.*?\n---\s*\n', '', body_raw, flags=re.DOTALL)
+    # Extract existing frontmatter from the body if present
+    existing_frontmatter = {}
+    frontmatter_match = re.match(r'^---\s*\n(.*?)\n---\s*\n', body_raw, flags=re.DOTALL)
+    if frontmatter_match:
+        try:
+            existing_frontmatter = yaml.safe_load(frontmatter_match.group(1)) or {}
+        except yaml.YAMLError:
+            existing_frontmatter = {}
+        # Remove frontmatter from body
+        body_raw = body_raw[frontmatter_match.end():]
     
     # Keep body as-is (GitHub Discussions already use markdown)
     body = body_raw.strip()
@@ -30,13 +40,21 @@ def convert_to_hugo_md(discussion):
         labels = labels.get('nodes', [])
     categories = [label['name'] for label in labels] if labels else []
     
-    # Format categories as YAML list
-    categories_yaml = '[' + ', '.join(f'"{cat}"' for cat in categories) + ']' if categories else '[]'
+    # Build base frontmatter dict
+    frontmatter = {
+        'title': title,
+        'date': discussion.get('created_at', ''),
+        'categories': categories
+    }
+    
+    # Merge with existing frontmatter, letting existing values override
+    frontmatter.update(existing_frontmatter)
+    
+    # Generate YAML frontmatter with proper escaping
+    yaml_frontmatter = yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True, sort_keys=False)
     
     md_content = f"""---
-title: "{title}"
-date: {discussion.get('created_at', '')}
-categories: {categories_yaml}
+{yaml_frontmatter.rstrip()}
 ---
 
 {body}
