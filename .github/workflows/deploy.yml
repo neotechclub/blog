@@ -28,7 +28,7 @@ jobs:
 
             - name: Install Python dependencies
               run: |
-                  pip install requests
+                  pip install requests PyYAML
 
             - name: Fetch Discussions and Convert to Markdown
               env:
