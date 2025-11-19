@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events on NeoTech Club's Blog</title><link>https://blog.neotechclub.qzz.io/categories/events/</link><description>Recent content in Events on NeoTech Club's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Oct 2025 06:36:28 +0000</lastBuildDate><atom:link href="https://blog.neotechclub.qzz.io/categories/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Meet - "Creating a Portfolio with GitHub Pages"</title><link>https://blog.neotechclub.qzz.io/p/meet-creating-a-portfolio-with-github-pages/</link><pubDate>Thu, 30 Oct 2025 06:36:28 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/meet-creating-a-portfolio-with-github-pages/</guid><description>&lt;h1 id="meet---web-development-for-everyone"&gt;Meet - Web Development for Everyone
+&lt;/h1&gt;&lt;p&gt;This session delves into a useful additional service Github offers, called Github Pages. This is open for all, and we especially welcome non-technical people!&lt;/p&gt;
+&lt;p&gt;Prerequisites: Please complete your Github Profile Setup and ensure you are able to log into it prior to the event. Refer to this guide for step-by-step instructions on how to do this: &lt;a class="link" href="https://blog.neotechclub.qzz.io/p/git-workshop-1-level-1-making-a-github-account-route-a-github/" target="_blank" rel="noopener"
+&gt;https://blog.neotechclub.qzz.io/p/git-workshop-1-level-1-making-a-github-account-route-a-github/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We will walk participants through static web pages, the deployment process, interesting things that can be done with this and most importantly, show you how you can get started :D&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: 🗺 (Room 202) Sem-5 BCA Classroom, GCC&lt;/li&gt;
+&lt;li&gt;Time: ⏲ (TO-BE-ANNOUNCED) -&amp;gt; November 20th 2025&lt;/li&gt;
+&lt;li&gt;(with a buffer of 15 minutes for initial setup)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation Slides: &lt;a class="link" href="https://w4-site-slides.neotechclub.qzz.io" target="_blank" rel="noopener"
+&gt;https://w4-site-slides.neotechclub.qzz.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>"Introduction to Open Source and Why Privacy Matters" - Meet and Exercises</title><link>https://blog.neotechclub.qzz.io/p/introduction-to-open-source-and-why-privacy-matters-meet-and-exercises/</link><pubDate>Wed, 15 Oct 2025 13:56:48 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/introduction-to-open-source-and-why-privacy-matters-meet-and-exercises/</guid><description>&lt;h1 id="meet-with-hands-on-exercises"&gt;Meet with Hands-on Exercises
+&lt;/h1&gt;&lt;p&gt;This session is about FOSS, OSS, and privacy. This is open for all, and we especially welcome non-technical people!&lt;/p&gt;
+&lt;p&gt;We will demonstrate the difference between Open Source and Proprietary solutions, explain the challenges, and most importantly, show you how you can get started :D&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bring your laptops and ideas!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: 🗺 202, Sem-5 BCA Classroom, GCC&lt;/li&gt;
+&lt;li&gt;Time: ⏲ 1:20PM -&amp;gt; October 17th 2025&lt;/li&gt;
+&lt;li&gt;(with a buffer of 15 minutes for ideas and discussions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation Slides: &lt;a class="link" href="https://w3-foss-slides.neotechclub.qzz.io" target="_blank" rel="noopener"
+&gt;https://w3-foss-slides.neotechclub.qzz.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Git Workshop 1 - Intro to Git with Github and Codeberg (Instructions)</title><link>https://blog.neotechclub.qzz.io/p/git-workshop-1-intro-to-git-with-github-and-codeberg-instructions/</link><pubDate>Mon, 06 Oct 2025 14:37:09 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/git-workshop-1-intro-to-git-with-github-and-codeberg-instructions/</guid><description>&lt;h1 id="version-control-essentials"&gt;Version control essentials.
+&lt;/h1&gt;&lt;p&gt;From clone to commits, we&amp;rsquo;ll cover collaborative development workflows. Non-Programmers are also encouraged to join :D&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+Carry your laptops!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: 🗺 TBD, GCC&lt;/li&gt;
+&lt;li&gt;Time: ⏲ Second Hour of Friday&amp;rsquo;s Meetup Session -&amp;gt; October 10th 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Guidebook: &lt;a class="link" href="https://adventure.neotechclub.qzz.io/#course-git-journey-part-1/starter" target="_blank" rel="noopener"
+&gt;https://adventure.neotechclub.qzz.io/#course-git-journey-part-1/starter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Presentation Slides: &lt;a class="link" href="https://w2-git1-slides.neotechclub.qzz.io" target="_blank" rel="noopener"
+&gt;https://w2-git1-slides.neotechclub.qzz.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Kickoff Session - First Official Meet (Instructions)</title><link>https://blog.neotechclub.qzz.io/p/kickoff-session-first-official-meet-instructions/</link><pubDate>Mon, 06 Oct 2025 14:27:47 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/kickoff-session-first-official-meet-instructions/</guid><description>&lt;h1 id="first-official-meet"&gt;First official meet.
+&lt;/h1&gt;&lt;p&gt;Introductions, club vision, and initial project brainstorming.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+Bring your laptops and ideas!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: 🗺 TBD, GCC&lt;/li&gt;
+&lt;li&gt;Time: ⏲ First Hour of Friday&amp;rsquo;s Meetup Session -&amp;gt; October 10th 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation Slides: &lt;a class="link" href="https://w1-kickoff-slides.neotechclub.qzz.io" target="_blank" rel="noopener"
+&gt;https://w1-kickoff-slides.neotechclub.qzz.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

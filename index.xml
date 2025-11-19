@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NeoTech Club's Blog</title><link>https://blog.neotechclub.qzz.io/</link><description>Recent content on NeoTech Club's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Oct 2025 06:36:28 +0000</lastBuildDate><atom:link href="https://blog.neotechclub.qzz.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Meet - "Creating a Portfolio with GitHub Pages"</title><link>https://blog.neotechclub.qzz.io/p/meet-creating-a-portfolio-with-github-pages/</link><pubDate>Thu, 30 Oct 2025 06:36:28 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/meet-creating-a-portfolio-with-github-pages/</guid><description>&lt;h1 id="meet---web-development-for-everyone"&gt;Meet - Web Development for Everyone
+&lt;/h1&gt;&lt;p&gt;This session delves into a useful additional service Github offers, called Github Pages. This is open for all, and we especially welcome non-technical people!&lt;/p&gt;
+&lt;p&gt;Prerequisites: Please complete your Github Profile Setup and ensure you are able to log into it prior to the event. Refer to this guide for step-by-step instructions on how to do this: &lt;a class="link" href="https://blog.neotechclub.qzz.io/p/git-workshop-1-level-1-making-a-github-account-route-a-github/" target="_blank" rel="noopener"
+&gt;https://blog.neotechclub.qzz.io/p/git-workshop-1-level-1-making-a-github-account-route-a-github/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We will walk participants through static web pages, the deployment process, interesting things that can be done with this and most importantly, show you how you can get started :D&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: 🗺 (Room 202) Sem-5 BCA Classroom, GCC&lt;/li&gt;
+&lt;li&gt;Time: ⏲ (TO-BE-ANNOUNCED) -&amp;gt; November 20th 2025&lt;/li&gt;
+&lt;li&gt;(with a buffer of 15 minutes for initial setup)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation Slides: &lt;a class="link" href="https://w4-site-slides.neotechclub.qzz.io" target="_blank" rel="noopener"
+&gt;https://w4-site-slides.neotechclub.qzz.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>"Introduction to Open Source and Why Privacy Matters" - Meet and Exercises</title><link>https://blog.neotechclub.qzz.io/p/introduction-to-open-source-and-why-privacy-matters-meet-and-exercises/</link><pubDate>Wed, 15 Oct 2025 13:56:48 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/introduction-to-open-source-and-why-privacy-matters-meet-and-exercises/</guid><description>&lt;h1 id="meet-with-hands-on-exercises"&gt;Meet with Hands-on Exercises
+&lt;/h1&gt;&lt;p&gt;This session is about FOSS, OSS, and privacy. This is open for all, and we especially welcome non-technical people!&lt;/p&gt;
+&lt;p&gt;We will demonstrate the difference between Open Source and Proprietary solutions, explain the challenges, and most importantly, show you how you can get started :D&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bring your laptops and ideas!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: 🗺 202, Sem-5 BCA Classroom, GCC&lt;/li&gt;
+&lt;li&gt;Time: ⏲ 1:20PM -&amp;gt; October 17th 2025&lt;/li&gt;
+&lt;li&gt;(with a buffer of 15 minutes for ideas and discussions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation Slides: &lt;a class="link" href="https://w3-foss-slides.neotechclub.qzz.io" target="_blank" rel="noopener"
+&gt;https://w3-foss-slides.neotechclub.qzz.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Git Workshop 1 -&gt; Level 3: Making Changes to Other People's Repos(Route B: Codeberg)</title><link>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-3-making-changes-to-other-peoples-reposroute-b-codeberg/</link><pubDate>Thu, 09 Oct 2025 05:44:31 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-3-making-changes-to-other-peoples-reposroute-b-codeberg/</guid><description>&lt;h1 id="git-workshop-1"&gt;Git Workshop 1
+&lt;/h1&gt;&lt;h2 id="level-3-sending-pull-requests"&gt;Level 3: Sending Pull Requests
+&lt;/h2&gt;&lt;h3 id="step-0-log-in-to-your-codeberg-account"&gt;Step 0: Log in to your codeberg account
+&lt;/h3&gt;&lt;h3 id="step-1-go-to-the-repo"&gt;Step 1: Go to the repo
+&lt;/h3&gt;&lt;p&gt;Visit &lt;a class="link" href="https://codeberg.org/neotechclub/git-playground" target="_blank" rel="noopener"
+&gt;https://codeberg.org/neotechclub/git-playground&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-2-fork-the-repository"&gt;Step 2: Fork the Repository
+&lt;/h3&gt;&lt;img width="298" height="299" alt="fork button in codeberg" src="https://github.com/user-attachments/assets/55c61845-d1e3-4eee-94e9-e5294aff9d97" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Change repository name if you&amp;rsquo;d like. We suggest leaving it as-is!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="300" height="299" alt="repo name box in fork review screen" src="https://github.com/user-attachments/assets/3d727fd9-7066-486e-92d2-7b66686773c9" /&gt;
+&lt;img width="302" height="298" alt="image" src="https://github.com/user-attachments/assets/7de1fad1-599b-430b-9b7e-772525c319a8" /&gt;
+&lt;h3 id="step-3-making-the-change"&gt;Step 3: Making the change
+&lt;/h3&gt;&lt;p&gt;Notice that the repo you copied is now &amp;ldquo;forked&amp;rdquo; in your name? This can be used as a personal copy of the repo including all the changes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is also used to submit a &amp;ldquo;Pull Request&amp;rdquo;! It can also be called a &amp;ldquo;Merge Request&amp;rdquo; or a &amp;ldquo;PR&amp;rdquo;. Click on the pencil icon to edit the document.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="303" height="299" alt="image" src="https://github.com/user-attachments/assets/616bd0a0-a48f-44cd-a7a8-54a2563a30ac" /&gt;
+&lt;img width="296" height="293" alt="image" src="https://github.com/user-attachments/assets/e2980c81-b4e9-48c6-aece-572c6a27eb05" /&gt;
+&lt;img width="296" height="297" alt="image" src="https://github.com/user-attachments/assets/fa1a7f62-f5db-4784-b8a6-8a068fe4edee" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Instructions: Add some text. Something simple with your name like &amp;ldquo;&lt;yourname&gt; was here!&amp;rdquo; is recommended!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Add commit data like title and maybe description(optional, but recommended!)
+&lt;img width="302" height="301" alt="image" src="https://github.com/user-attachments/assets/e92d77eb-1dd8-458d-a8b1-01bda559bb6b" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to finish by committing your changes!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="298" height="297" alt="image" src="https://github.com/user-attachments/assets/f0aaa7ee-75b1-4321-92a4-2118b406564f" /&gt;
+&lt;h3 id="step-4-submit-your-change-as-a-pull-request"&gt;Step 4: Submit your change as a Pull Request!
+&lt;/h3&gt;&lt;p&gt;Head back over to the main repository at &lt;a class="link" href="https://codeberg.org/neotechclub/git-playground" target="_blank" rel="noopener"
+&gt;https://codeberg.org/neotechclub/git-playground&lt;/a&gt; and go to pull requests page&lt;/p&gt;
+&lt;img width="295" height="294" alt="image" src="https://github.com/user-attachments/assets/648ae184-4cb3-4bf5-82ec-53bee5f08ca5" /&gt;
+&lt;img width="294" height="295" alt="image" src="https://github.com/user-attachments/assets/d813bab7-3f80-46ce-9f16-53cabb861658" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Create a new pull request and select your repository&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="300" height="296" alt="image" src="https://github.com/user-attachments/assets/d2472c7c-0239-45af-9269-0f31310c09ac" /&gt;
+&lt;img width="298" height="302" alt="image" src="https://github.com/user-attachments/assets/52dcef2b-bced-4106-ba02-bdc9a2bf2de0" /&gt;
+&lt;img width="296" height="300" alt="image" src="https://github.com/user-attachments/assets/c3644414-aeeb-467b-82cc-93c24f4229b7" /&gt;
+&lt;img width="301" height="294" alt="image" src="https://github.com/user-attachments/assets/cd144b7e-ec27-4888-8e2d-3af5429eb9f0" /&gt;
+&lt;p&gt;Review your pull request message.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ensure you do this in a professional way because this is the first thing most people see when they come across your PR!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="299" height="299" alt="image" src="https://github.com/user-attachments/assets/61c9cd20-bcce-45f4-906f-e9e87f1598f9" /&gt;
+&lt;img width="294" height="297" alt="image" src="https://github.com/user-attachments/assets/d6475ec8-8157-4e2b-a754-39b38e66c40b" /&gt;
+&lt;p&gt;Engage in further discussion if you&amp;rsquo;d like&lt;/p&gt;
+&lt;img width="296" height="298" alt="image" src="https://github.com/user-attachments/assets/f6be3ff0-90f6-40d5-8467-63c3adb05ff5" /&gt;</description></item><item><title>Git Workshop 1 -&gt; Level 2: Making a Repository (Route B: Codeberg)</title><link>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-2-making-a-repository-route-b-codeberg/</link><pubDate>Thu, 09 Oct 2025 05:43:48 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-2-making-a-repository-route-b-codeberg/</guid><description>&lt;h1 id="git-workshop-1"&gt;Git Workshop 1
+&lt;/h1&gt;&lt;h2 id="level-2-making-your-first-repository"&gt;Level 2: Making your first repository
+&lt;/h2&gt;&lt;h3 id="step-0-ensure-youre-logged-into-codeberg"&gt;Step 0: Ensure you&amp;rsquo;re logged into codeberg
+&lt;/h3&gt;&lt;h3 id="step-1-prepare-to-create-a-new-repository"&gt;Step 1: Prepare to create a new repository
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;As a general rule of thumb, &lt;code&gt;+&lt;/code&gt; symbol usually indicates that something can be created and ✏symbol indicates that something can be edited!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="300" height="299" alt="image" src="https://github.com/user-attachments/assets/5fe064b8-06c1-4035-8887-3fd5c11eaffc" /&gt;
+&lt;img width="298" height="299" alt="image" src="https://github.com/user-attachments/assets/1c035d0a-5850-4334-bc50-1b20840885d2" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ensure you&amp;rsquo;re logged in as the correct user!
+&lt;img width="302" height="299" alt="image" src="https://github.com/user-attachments/assets/6491c702-26f0-4eb6-89f3-6aee44b599ee" /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="step-2-describe-and-create-your-repository"&gt;Step 2: Describe and Create your Repository
+&lt;/h3&gt;&lt;p&gt;Some suggestions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be descriptive and clear
+&lt;ul&gt;
+&lt;li&gt;Good: customer-support-app&lt;/li&gt;
+&lt;li&gt;Bad: repo-new&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Use lowercase
+&lt;ul&gt;
+&lt;li&gt;Good: my-project&lt;/li&gt;
+&lt;li&gt;Bad: My-Project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Use hyphens as separators (slug-case)
+&lt;ul&gt;
+&lt;li&gt;Good: my-project&lt;/li&gt;
+&lt;li&gt;Bad: my_project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Avoid special characters
+&lt;ul&gt;
+&lt;li&gt;Use only letters, numbers, and hyphens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Keep it short and concise
+&lt;ul&gt;
+&lt;li&gt;Shorter names are easier to remember&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Avoid version numbers
+&lt;ul&gt;
+&lt;li&gt;Use tags for versions (e.g., v1.0.0)&lt;/li&gt;
+&lt;li&gt;Bad: invoice-generator-v2&lt;/li&gt;
+&lt;li&gt;We will have ample opportunities to version our code with branches and tags!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img width="294" height="296" alt="image" src="https://github.com/user-attachments/assets/a168e46d-b77a-4ec3-86bb-bd013f1db415" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Optionally, make repository private. This means that your friends cannot see your work! That wasn&amp;rsquo;t very Open Source of you &amp;gt;:(&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="293" height="296" alt="image" src="https://github.com/user-attachments/assets/9bb846ea-bea0-4a12-a4d2-b0a7137e2fe6" /&gt;
+&lt;p&gt;Add an appropriate description to convey what your repo does&lt;/p&gt;
+&lt;img width="302" height="298" alt="image" src="https://github.com/user-attachments/assets/8cce0f5d-be07-4b3a-8077-a480100dc19c" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;remember to select this for the next step!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="302" height="293" alt="image" src="https://github.com/user-attachments/assets/b874ef32-8d1b-4592-bed1-e7235520bbe1" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to create your repository!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="294" height="298" alt="image" src="https://github.com/user-attachments/assets/fc1e7711-7b07-41c1-9e9a-0ca9c1ea5c6e" /&gt;
+&lt;h3 id="step-3-edit-your-first-file-readmemd"&gt;Step 3: Edit your first file: README.md
+&lt;/h3&gt;&lt;img width="299" height="301" alt="image" src="https://github.com/user-attachments/assets/fc8d8ab9-a814-46bc-9e89-b205179b0bc0" /&gt;
+&lt;img width="303" height="297" alt="image" src="https://github.com/user-attachments/assets/abdcafa9-bd40-4a3d-b576-b0039c05026a" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is the file most people see when they first view your repository, even non programmers. This should contain a good introductory piece of documentation for what your repo/code does, how to use it, etc. Ensure this is professional and good!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="299" height="295" alt="image" src="https://github.com/user-attachments/assets/c98a72ad-046c-4a89-834f-b02464be0209" /&gt;
+&lt;img width="298" height="296" alt="image" src="https://github.com/user-attachments/assets/28b913cd-1abc-437b-9d8a-8f50316d1588" /&gt;
+&lt;img width="306" height="293" alt="image" src="https://github.com/user-attachments/assets/809ad03f-f24d-4afa-8e67-4a6b0f97dfd0" /&gt;
+&lt;h3 id="step-4-saving-your-file-using-commits"&gt;Step 4: Saving your file using Commits
+&lt;/h3&gt;&lt;p&gt;With git, we use &amp;ldquo;commits&amp;rdquo; to track changes. Each commit(a snapshot of the repository) has a change title, description, and a hash ID. This makes code management for non-insignificant projects very simple!&lt;/p&gt;
+&lt;p&gt;Most git services and git cli provide(s) a diff-like view that shows changes in a before-after form side-by-side.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to add a descriptive and relevant commit message here!
+&lt;img width="299" height="297" alt="image" src="https://github.com/user-attachments/assets/f298e640-27d5-4bd8-b6c9-c0dd7b0b0b42" /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to actually finish committing your changes! You can check the history tab afterwards to see what your commit changed!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/135b836f-a744-476d-a657-4703571906ca" /&gt;</description></item><item><title>Git Workshop 1 -&gt; Level 1: Making a Codeberg Account (Route B: Codeberg)</title><link>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-1-making-a-codeberg-account-route-b-codeberg/</link><pubDate>Thu, 09 Oct 2025 05:42:20 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-1-making-a-codeberg-account-route-b-codeberg/</guid><description>&lt;p&gt;Git Workshop 1
+Level 1: Making your Codeberg account&lt;/p&gt;
+&lt;h3 id="step-0-prepare-an-email-for-this-workshop"&gt;Step 0: Prepare an email for this workshop
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Feel free to use your existing mail ID&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This guide is using Proton Mail on android but you can follow this with almost any provider, like gmail, outlook, etc.&lt;/p&gt;
+&lt;h3 id="step-1-open-codeberg"&gt;Step 1: Open Codeberg
+&lt;/h3&gt;&lt;p&gt;Visit &lt;a class="link" href="https://codeberg.org/" target="_blank" rel="noopener"
+&gt;https://codeberg.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-2-register"&gt;Step 2: Register
+&lt;/h3&gt;&lt;img width="294" height="296" alt="image" src="https://github.com/user-attachments/assets/a7c3f5cd-97be-4248-aa1c-567dd07b11e4" /&gt;
+&lt;img width="298" height="299" alt="image" src="https://github.com/user-attachments/assets/e43629b1-8d6a-4804-add4-794f6791e6e3" /&gt;
+&lt;img width="300" height="297" alt="image" src="https://github.com/user-attachments/assets/2d17fd3c-bdd5-4d65-b78d-bbdd6cb14592" /&gt;
+&lt;img width="302" height="291" alt="image" src="https://github.com/user-attachments/assets/9de83cf9-66e4-43ec-852b-33a91d7ba57d" /&gt;
+&lt;img width="298" height="296" alt="image" src="https://github.com/user-attachments/assets/d84cc76f-1768-483f-936d-24ad4208c4e0" /&gt;
+&lt;img width="300" height="296" alt="image" src="https://github.com/user-attachments/assets/26dee429-9010-4f9f-acb8-0c03276d6af6" /&gt;
+&lt;h3 id="step-3-finish-registrationverify-email"&gt;Step 3: Finish Registration/Verify Email
+&lt;/h3&gt;&lt;img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5f5f9d2c-593c-40e4-81d9-3902d6233405" /&gt;
+&lt;img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/354bf51b-f4e0-4ebf-ae53-871b4e0fa8d0" /&gt;
+&lt;h3 id="step-4-sign-in"&gt;Step 4: Sign In
+&lt;/h3&gt;&lt;img width="298" height="298" alt="image" src="https://github.com/user-attachments/assets/c3eba3da-9b6b-40c6-9c72-c7a3f1cc0764" /&gt;
+&lt;img width="298" height="297" alt="image" src="https://github.com/user-attachments/assets/b2b4b64e-2bce-4134-b24f-bda2db5f60d0" /&gt;
+&lt;img width="294" height="295" alt="image" src="https://github.com/user-attachments/assets/cf3613c0-856d-43ff-8c81-1ccab505d8af" /&gt;
+&lt;img width="299" height="297" alt="image" src="https://github.com/user-attachments/assets/773e59c2-c0c3-4630-8db9-274a492b8b03" /&gt;</description></item><item><title>Git Workshop 1 -&gt; Level 3: Making Changes to Other People's Repos(Route A: Github)</title><link>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-3-making-changes-to-other-peoples-reposroute-a-github/</link><pubDate>Thu, 09 Oct 2025 05:35:40 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-3-making-changes-to-other-peoples-reposroute-a-github/</guid><description>&lt;h1 id="git-workshop-1"&gt;Git Workshop 1
+&lt;/h1&gt;&lt;h2 id="level-3-sending-pull-requests"&gt;Level 3: Sending Pull Requests
+&lt;/h2&gt;&lt;h3 id="step-0-log-in-to-your-github-account"&gt;Step 0: Log in to your GitHub account
+&lt;/h3&gt;&lt;h3 id="step-1-go-to-the-repositoryaka-repo"&gt;Step 1: Go to the Repository[aka Repo]
+&lt;/h3&gt;&lt;p&gt;Visit &lt;a class="link" href="https://github.com/neotechclub/git-playground" target="_blank" rel="noopener"
+&gt;https://github.com/neotechclub/git-playground&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-2-fork-the-repository"&gt;Step 2: Fork the Repository
+&lt;/h3&gt;&lt;img width="293" height="293" alt="image" src="https://github.com/user-attachments/assets/faa7ac01-9ab1-4564-9643-75afd2df1424" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Change repository name if you&amp;rsquo;d like. We suggest leaving it as-is!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="297" height="296" alt="image" src="https://github.com/user-attachments/assets/4c6f8752-2617-4efb-a2a5-014fa6db955a" /&gt;
+&lt;img width="295" height="297" alt="image" src="https://github.com/user-attachments/assets/5021dbcf-f117-4a0e-ad83-3e9d8ce14240" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Add Description to the fork [Optional]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="296" height="293" alt="image" src="https://github.com/user-attachments/assets/cfba8c0a-f0bd-4725-a4c0-08b00873fb61" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Click the button to make the fork of the repository!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="301" height="296" alt="image" src="https://github.com/user-attachments/assets/8a096ea4-89dd-4c4e-b69c-f8d84dc3019c" /&gt;
+&lt;h3 id="step-3-making-the-change"&gt;Step 3: Making the change
+&lt;/h3&gt;&lt;p&gt;Notice that the repo you copied is now &amp;ldquo;forked&amp;rdquo; in your name? This can be used as a personal copy of the repo including all the changes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Making Changes to the PARTICIPANTS.md&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="302" height="297" alt="image" src="https://github.com/user-attachments/assets/ccc7c3f1-19cb-455d-94d7-ae7c89b70e25" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Click The Pen Icon To Edit The File
+&lt;img width="296" height="292" alt="image" src="https://github.com/user-attachments/assets/3295ff7d-80a7-4954-8ddd-ccdf9d1bd00f" /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/b8e417ed-9c2e-41be-b396-8c41bcb11e92" /&gt;
+&lt;img width="297" height="297" alt="image" src="https://github.com/user-attachments/assets/464ab6c2-c913-4ffa-8205-8bbe50c79132" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Commiting The Changes made.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="297" height="295" alt="image" src="https://github.com/user-attachments/assets/b993e6e4-159a-4e02-8bca-5d68893c273d" /&gt;
+&lt;img width="298" height="295" alt="image" src="https://github.com/user-attachments/assets/05c7d217-52af-419a-93c1-b5142870f31d" /&gt;
+&lt;img width="302" height="299" alt="image" src="https://github.com/user-attachments/assets/da53299c-0701-4b93-a001-8e737765b169" /&gt;
+&lt;img width="297" height="297" alt="image" src="https://github.com/user-attachments/assets/8624ace2-7b1e-4340-b067-eb95127175d3" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is also used to submit a &amp;ldquo;Pull Request&amp;rdquo;! It can also be called a &amp;ldquo;Merge Request&amp;rdquo; or a &amp;ldquo;PR&amp;rdquo;. Click on the pencil icon to edit the document.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="298" height="298" alt="image" src="https://github.com/user-attachments/assets/509a11d0-bcd4-4aa7-81a2-f70d6d1cf39f" /&gt;
+&lt;img width="300" height="296" alt="image" src="https://github.com/user-attachments/assets/871baf7a-ae0b-480f-a2be-48de4ec880b5" /&gt;
+&lt;img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1b3442ee-4e0e-42b9-b855-fee9c0ddf66f" /&gt;
+&lt;img width="300" height="297" alt="image" src="https://github.com/user-attachments/assets/b6a5c61f-16c4-4cc2-9f3e-5edea01ddf04" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Instructions: Add some text. Something simple with your name like &amp;ldquo;&lt;yourname&gt; was here!&amp;rdquo; is recommended!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Add commit data like title and maybe description(optional, but recommended!)&lt;/p&gt;
+&lt;p&gt;&lt;img width="295" height="296" alt="image" src="https://github.com/user-attachments/assets/fa8ebed7-50a7-42af-b087-a26a60662556" /&gt;\&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to finish by committing your changes!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="step-4-submit-your-change-as-a-pull-request"&gt;Step 4: Submit your change as a Pull Request!
+&lt;/h3&gt;&lt;p&gt;Head back over to the main repository at &lt;a class="link" href="https://codeberg.org/neotechclub/git-playground" target="_blank" rel="noopener"
+&gt;https://codeberg.org/neotechclub/git-playground&lt;/a&gt; and go to pull requests page&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Create a new pull request and select your repository&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="297" height="293" alt="image" src="https://github.com/user-attachments/assets/d97bfefd-8a50-4699-a6cf-d656c20c1427" /&gt;
+&lt;p&gt;Review your pull request message.&lt;/p&gt;
+&lt;img width="297" height="294" alt="image" src="https://github.com/user-attachments/assets/73396cff-72c7-49d8-8db5-782bb7f9fa28" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ensure you do this in a professional way because this is the first thing most people see when they come across your PR!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Engage in further discussion if you&amp;rsquo;d like&lt;/p&gt;</description></item><item><title>Git Workshop 1 -&gt; Level 2: Making a Repository (Route A: Github)</title><link>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-2-making-a-repository-route-a-github/</link><pubDate>Thu, 09 Oct 2025 05:35:03 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-2-making-a-repository-route-a-github/</guid><description>&lt;h1 id="git-workshop-1"&gt;Git Workshop 1
+&lt;/h1&gt;&lt;h2 id="level-2-making-your-first-repository"&gt;Level 2: Making your first repository
+&lt;/h2&gt;&lt;h3 id="step-0-ensure-youre-logged-into-github"&gt;Step 0: Ensure you&amp;rsquo;re logged into github
+&lt;/h3&gt;&lt;h3 id="step-1-prepare-to-create-a-new-repository"&gt;Step 1: Prepare to create a new repository
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;As a general rule of thumb, &lt;code&gt;+&lt;/code&gt; symbol usually indicates that something can be created and ✏symbol indicates that something can be edited!
+&lt;img width="300" height="298" alt="image" src="https://github.com/user-attachments/assets/7d166a01-4c95-4d66-bba8-63932c83317e" /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="302" height="295" alt="image" src="https://github.com/user-attachments/assets/d3d09833-4379-4a51-9262-4cc1d1cad00b" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ensure you&amp;rsquo;re logged in as the correct user!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="step-2-describe-and-create-your-repository"&gt;Step 2: Describe and Create your Repository
+&lt;/h3&gt;&lt;p&gt;Some suggestions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be descriptive and clear
+&lt;ul&gt;
+&lt;li&gt;Good: customer-support-app&lt;/li&gt;
+&lt;li&gt;Bad: repo-new&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Use lowercase
+&lt;ul&gt;
+&lt;li&gt;Good: my-project&lt;/li&gt;
+&lt;li&gt;Bad: My-Project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Use hyphens as separators (slug-case)
+&lt;ul&gt;
+&lt;li&gt;Good: my-project&lt;/li&gt;
+&lt;li&gt;Bad: my_project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Avoid special characters
+&lt;ul&gt;
+&lt;li&gt;Use only letters, numbers, and hyphens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Keep it short and concise
+&lt;ul&gt;
+&lt;li&gt;Shorter names are easier to remember&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Avoid version numbers
+&lt;ul&gt;
+&lt;li&gt;Use tags for versions (e.g., v1.0.0)&lt;/li&gt;
+&lt;li&gt;Bad: invoice-generator-v2&lt;/li&gt;
+&lt;li&gt;We will have ample opportunities to version our code with branches and tags!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img width="294" height="290" alt="image" src="https://github.com/user-attachments/assets/baf7d361-5513-4f6a-b3b7-a562d99e5186" /&gt;
+&lt;p&gt;Add an appropriate description to convey what your repo does&lt;/p&gt;
+&lt;img width="296" height="295" alt="image" src="https://github.com/user-attachments/assets/9132a4a0-c4e4-463d-8bde-d8057a449054" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Optionally, make repository private. This means that your friends cannot see your work! That wasn&amp;rsquo;t very Open Source of you &amp;gt;:(
+&lt;img width="295" height="294" alt="image" src="https://github.com/user-attachments/assets/7fbc9968-63fd-4b44-8c1f-30ea82df39a5" /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;remember to select &lt;code&gt;Create README&lt;/code&gt; for the next step!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="295" height="292" alt="image" src="https://github.com/user-attachments/assets/7f6cbf95-a678-4680-b127-4ea2427ffd8a" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to create your repository!
+&lt;img width="294" height="292" alt="image" src="https://github.com/user-attachments/assets/b520132c-4d52-4ce6-ab54-1423fb3040dc" /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="step-3-edit-your-first-file-readmemd"&gt;Step 3: Edit your first file: README.md
+&lt;/h3&gt;&lt;img width="298" height="298" alt="image" src="https://github.com/user-attachments/assets/a59c3680-7a0a-4569-a30f-4773b198ff4d" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is the file most people see when they first view your repository, even non programmers. This should contain a good introductory piece of documentation for what your repo/code does, how to use it, etc. Ensure this is professional and good!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="300" height="293" alt="image" src="https://github.com/user-attachments/assets/db34f084-52e3-4484-a0b9-9bde788f282c" /&gt;
+&lt;img width="301" height="272" alt="image" src="https://github.com/user-attachments/assets/c2d12623-8565-487f-bb53-ba5945cca089" /&gt;
+&lt;img width="289" height="266" alt="image" src="https://github.com/user-attachments/assets/07a75b92-87aa-48a8-9e65-44c56b54575b" /&gt;
+&lt;h3 id="step-4-saving-your-file-using-commits"&gt;Step 4: Saving your file using Commits
+&lt;/h3&gt;&lt;p&gt;With git, we use &amp;ldquo;commits&amp;rdquo; to track changes. Each commit(a snapshot of the repository) has a change title, description, and a hash ID. This makes code management for non-insignificant projects very simple!&lt;/p&gt;
+&lt;img width="294" height="297" alt="image" src="https://github.com/user-attachments/assets/db75c294-99ce-4706-8440-fcfe3fa5ffe7" /&gt;
+&lt;p&gt;Most git services and git cli provide(s) a diff-like view that shows changes in a before-after form side-by-side.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to add a descriptive and relevant commit message here!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="294" height="291" alt="image" src="https://github.com/user-attachments/assets/16e0f2eb-0213-4c01-8824-9ee244bf7a51" /&gt;
+&lt;img width="296" height="298" alt="image" src="https://github.com/user-attachments/assets/64e92adb-6d7e-45c4-be00-a9a60512c708" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to actually finish committing your changes! You can check the history tab afterwards to see what your commit changed!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img width="303" height="296" alt="image" src="https://github.com/user-attachments/assets/edd14ea9-679d-4568-82d5-9102a5b75858" /&gt;</description></item><item><title>Git Workshop 1 -&gt; Level 1: Making a Github Account (Route A: Github)</title><link>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-1-making-a-github-account-route-a-github/</link><pubDate>Thu, 09 Oct 2025 05:34:36 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/git-workshop-1-level-1-making-a-github-account-route-a-github/</guid><description>&lt;p&gt;Git Workshop 1
+Level 1: Making your Github account&lt;/p&gt;
+&lt;h3 id="step-0-prepare-an-email-for-this-workshop"&gt;Step 0: Prepare an email for this workshop
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Feel free to use your existing mail ID&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This guide is using Google Mail on android but you can follow this with almost any provider, like Proton Mail, outlook, etc.&lt;/p&gt;
+&lt;img width="298" height="298" alt="image" src="https://github.com/user-attachments/assets/064a72c0-f637-49c2-9257-54250f3ab14c" /&gt;
+&lt;h3 id="step-1-open-github"&gt;Step 1: Open Github
+&lt;/h3&gt;&lt;p&gt;Visit &lt;a class="link" href="https://github.com/" target="_blank" rel="noopener"
+&gt;https://github.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-2-register"&gt;Step 2: Register
+&lt;/h3&gt;&lt;img width="298" height="298" alt="image" src="https://github.com/user-attachments/assets/3d0c7a64-bbe9-4513-a6ed-d528190dedfd" /&gt;
+&lt;img width="300" height="293" alt="image" src="https://github.com/user-attachments/assets/a247f1ec-7bdb-4518-a258-dfa8dd303712" /&gt;
+&lt;img width="295" height="296" alt="image" src="https://github.com/user-attachments/assets/6fdbcb18-c15c-450c-9bff-c23f69a665ad" /&gt;
+&lt;h3 id="step-3-finish-registrationverify-email"&gt;Step 3: Finish Registration/Verify Email
+&lt;/h3&gt;&lt;img width="298" height="295" alt="image" src="https://github.com/user-attachments/assets/10ae6898-193c-4ddf-8fd2-37a4f18328bb" /&gt;
+&lt;!-- Email page --&gt;
+&lt;h3 id="step-4-sign-in"&gt;Step 4: Sign In
+&lt;/h3&gt;&lt;img width="297" height="290" alt="image" src="https://github.com/user-attachments/assets/215aaf14-a499-45c7-bb4e-3d5b8bd8ea45" /&gt;</description></item><item><title>Git Workshop 1 - Intro to Git with Github and Codeberg (Instructions)</title><link>https://blog.neotechclub.qzz.io/p/git-workshop-1-intro-to-git-with-github-and-codeberg-instructions/</link><pubDate>Mon, 06 Oct 2025 14:37:09 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/git-workshop-1-intro-to-git-with-github-and-codeberg-instructions/</guid><description>&lt;h1 id="version-control-essentials"&gt;Version control essentials.
+&lt;/h1&gt;&lt;p&gt;From clone to commits, we&amp;rsquo;ll cover collaborative development workflows. Non-Programmers are also encouraged to join :D&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+Carry your laptops!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: 🗺 TBD, GCC&lt;/li&gt;
+&lt;li&gt;Time: ⏲ Second Hour of Friday&amp;rsquo;s Meetup Session -&amp;gt; October 10th 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Guidebook: &lt;a class="link" href="https://adventure.neotechclub.qzz.io/#course-git-journey-part-1/starter" target="_blank" rel="noopener"
+&gt;https://adventure.neotechclub.qzz.io/#course-git-journey-part-1/starter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Presentation Slides: &lt;a class="link" href="https://w2-git1-slides.neotechclub.qzz.io" target="_blank" rel="noopener"
+&gt;https://w2-git1-slides.neotechclub.qzz.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Kickoff Session - First Official Meet (Instructions)</title><link>https://blog.neotechclub.qzz.io/p/kickoff-session-first-official-meet-instructions/</link><pubDate>Mon, 06 Oct 2025 14:27:47 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/kickoff-session-first-official-meet-instructions/</guid><description>&lt;h1 id="first-official-meet"&gt;First official meet.
+&lt;/h1&gt;&lt;p&gt;Introductions, club vision, and initial project brainstorming.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+Bring your laptops and ideas!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: 🗺 TBD, GCC&lt;/li&gt;
+&lt;li&gt;Time: ⏲ First Hour of Friday&amp;rsquo;s Meetup Session -&amp;gt; October 10th 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation Slides: &lt;a class="link" href="https://w1-kickoff-slides.neotechclub.qzz.io" target="_blank" rel="noopener"
+&gt;https://w1-kickoff-slides.neotechclub.qzz.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Testing posts</title><link>https://blog.neotechclub.qzz.io/p/testing-posts/</link><pubDate>Mon, 06 Oct 2025 13:17:41 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/testing-posts/</guid><description>&lt;p&gt;hello 👋&lt;/p&gt;</description></item><item><title>Hello World</title><link>https://blog.neotechclub.qzz.io/p/hello-world/</link><pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/p/hello-world/</guid><description>&lt;img src="https://blog.neotechclub.qzz.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to the club website, it is built with hugo with a theme called &lt;code&gt;Stack&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;For more information about this theme, check the documentation: &lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
+&gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want a site like this? Check out &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
+&gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+&gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Archives</title><link>https://blog.neotechclub.qzz.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/archives/</guid><description/></item><item><title>Links</title><link>https://blog.neotechclub.qzz.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/links/</guid><description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;links&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.com&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;</description></item><item><title>Search</title><link>https://blog.neotechclub.qzz.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.neotechclub.qzz.io/search/</guid><description/></item></channel></rss>
